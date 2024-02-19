@@ -1,0 +1,14 @@
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\bin\Debug\net8.0\Main.exe
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\bin\Debug\net8.0\Main.deps.json
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\bin\Debug\net8.0\Main.dll
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\bin\Debug\net8.0\Main.pdb
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\obj\Debug\net8.0\Main.dll
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\obj\Debug\net8.0\refint\Main.dll
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\obj\Debug\net8.0\Main.pdb
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\Main\Main\obj\Debug\net8.0\ref\Main.dll
