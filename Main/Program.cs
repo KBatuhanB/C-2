@@ -4,9 +4,9 @@ using Main.Entities;
 
 Console.WriteLine("Hello, World!");
 
-CourseManager courseManager = new CourseManager();
-CategoryManager categoryManager = new CategoryManager();
-InstructorManager instructorManager = new InstructorManager(); 
+IManager<Course> courseManager = new CourseManager();
+IManager<Category> categoryManager = new CategoryManager();
+IManager<Instructor> instructorManager = new InstructorManager(); 
 
 List<Category> categories = categoryManager.GetAll();
 foreach (Category category in categories)
